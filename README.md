@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jasmineforbes
 - 👀 I’m interested in front-end web development :)
-- 🌱 I’m currently learning HTML, CSS, and Javascript
+- 🌱 I’m currently learning HTML, CSS, and Javascript (self teaching )
 - 💞️ I’m looking to collaborate on some pretty cool projects.
 - 📫 How to reach me @jasmineforbes56@gmail.com 
 
